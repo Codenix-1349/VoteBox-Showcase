@@ -24,10 +24,36 @@ Invite-basierte Online-Wahlen für Parteien, Verbände und Organisationen · *No
 
 ---
 
-<img width="1663" height="900" alt="VoteBox_Import" src="https://github.com/user-attachments/assets/a568829a-83a1-4d8f-abe0-c46988e65e44" />
-<img width="976" height="875" alt="Votebox_Abstimmung2" src="https://github.com/user-attachments/assets/e94ef341-c3e9-4e12-876e-ac4382019c05" />
-<img width="788" height="645" alt="VoteBox_vote" src="https://github.com/user-attachments/assets/c5611f8d-b8e4-4f38-9b98-30f48c9ac51c" />
-<img width="603" height="577" alt="VoteBox_Login" src="https://github.com/user-attachments/assets/88a369fd-4af8-4dbe-96bc-63dd5a1a8f24" />
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/a568829a-83a1-4d8f-abe0-c46988e65e44"
+           width="400" alt="CSV-Import" /><br/>
+      <sub><b>CSV-Import der Wahlberechtigten</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/e94ef341-c3e9-4e12-876e-ac4382019c05"
+           width="400" alt="Abstimmungsübersicht" /><br/>
+      <sub><b>Abstimmungsübersicht (Admin)</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/c5611f8d-b8e4-4f38-9b98-30f48c9ac51c"
+           width="400" alt="Stimmabgabe" /><br/>
+      <sub><b>Stimmabgabe durch Wahlberechtigte</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/88a369fd-4af8-4dbe-96bc-63dd5a1a8f24"
+           width="400" alt="Admin-Login mit TOTP" /><br/>
+      <sub><b>Admin-Login mit TOTP-Absicherung</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## <a id="überblick"></a>📖 Überblick
 
@@ -246,10 +272,8 @@ npm run dev
 
 ---
 
-
 ## <a id="autor"></a>👨‍💻 Autor
 
 **Patrick Neumann**
 
 GitHub: [github.com/Codenix-1349](https://github.com/Codenix-1349)
-
