@@ -7,7 +7,6 @@ Invite-basierte Online-Wahlen für Parteien, Verbände und Organisationen · *No
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React 19" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" title="Vite 6" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />&nbsp;
-![MIT](https://img.shields.io/badge/license-MIT-blue)
 
 ---
 
