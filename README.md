@@ -25,7 +25,7 @@ Invite-basierte Online-Wahlen für Parteien, Verbände und Organisationen · *No
 
 ---
 
-## 📖 Überblick
+## <a id="überblick"></a>📖 Überblick
 
 VoteBox ist eine sichere, einladungsbasierte Abstimmungsplattform für interne Wahlen in Parteien, Verbänden und vergleichbaren Organisationen.
 
@@ -49,7 +49,7 @@ Das Projekt legt besonderen Wert auf:
 
 ---
 
-## 🔄 Wahlfluss im Detail
+## <a id="wahlfluss-im-detail"></a>🔄 Wahlfluss im Detail
 
 Jede Abstimmung durchläuft zwei klar getrennte Seiten: Wahlleitung und Wahlberechtigte.
 
@@ -93,7 +93,7 @@ Eine Bestätigungsseite schließt den Vorgang ab. Die Stimme ist gespeichert —
 
 ---
 
-## ✨ Kernfunktionen
+## <a id="kernfunktionen"></a>✨ Kernfunktionen
 
 ### 🔐 Admin-Absicherung
 
@@ -123,7 +123,7 @@ Eine Bestätigungsseite schließt den Vorgang ab. Die Stimme ist gespeichert —
 
 ---
 
-## 🧠 Technische Architektur
+## <a id="technische-architektur"></a>🧠 Technische Architektur
 
 VoteBox ist als klar getrenntes Frontend/Backend-System aufgebaut mit modularen, single-responsibility Services auf der Serverseite.
 
@@ -140,7 +140,7 @@ Frontend (React)  →  Backend API (Express)  →  PostgreSQL
 
 ---
 
-## 🛠 Tech Stack
+## <a id="tech-stack"></a>🛠 Tech Stack
 
 | Bereich      | Technologie                                  |
 |--------------|----------------------------------------------|
@@ -155,7 +155,7 @@ Frontend (React)  →  Backend API (Express)  →  PostgreSQL
 
 ---
 
-## 🚀 Schnellstart
+## <a id="schnellstart"></a>🚀 Schnellstart
 
 ### Voraussetzungen
 
@@ -197,7 +197,7 @@ npm run dev
 
 ---
 
-## 🛣 Roadmap
+## <a id="roadmap"></a>🛣 Roadmap
 
 ### 🏗 Phase 1–3: Tenant- & User-Grundlage
 
@@ -231,7 +231,7 @@ npm run dev
 
 ---
 
-## 🎯 Was dieses Projekt zeigt
+## <a id="was-dieses-projekt-zeigt"></a>🎯 Was dieses Projekt zeigt
 
 - Invite-basierte Authentifizierungsarchitektur ohne Wähler-Registrierung
 - Zweiphasiger Admin-Login (Passwort + TOTP) mit sicherer Session-Verwaltung
@@ -242,7 +242,7 @@ npm run dev
 
 ---
 
-## 👨‍💻 Autor
+## <a id="autor"></a>👨‍💻 Autor
 
 **Patrick Neumann**
 
