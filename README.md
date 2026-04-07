@@ -95,19 +95,13 @@ Jede Abstimmung durchläuft zwei klar getrennte Seiten: Wahlleitung und Wahlbere
 
 **1️⃣ Vorbereitung**
 
-Die Wahlleitung legt eine Abstimmung an, definiert Antwortoptionen sowie Start- und Endzeitpunkt und importiert die Wahlberechtigten per CSV.
-
 **2️⃣ Einladungsversand**
-
-Einladungen werden generiert und per SMTP versendet. Jede wahlberechtigte Person erhält einen individuellen, einmalig verwendbaren Link.
 
 **3️⃣ Monitoring**
 
-Die Wahlleitung verfolgt Versandstatus und Abstimmungsstatus in Echtzeit. Für Personen, die noch nicht abgestimmt haben, kann ein Re-Invite ausgelöst werden.
-
 **4️⃣ Ergebnisse**
 
-Nach Wahlende werden Ergebnisse freigegeben und können als CSV exportiert werden. Während der laufenden Wahl sind keine Zwischenergebnisse einsehbar.
+
 
 ---
 
@@ -115,19 +109,12 @@ Nach Wahlende werden Ergebnisse freigegeben und können als CSV exportiert werde
 
 **1️⃣ Einladung erhalten**
 
-Die wahlberechtigte Person erhält eine E-Mail mit einem persönlichen Einladungslink. Keine Registrierung, kein Passwort, kein TOTP erforderlich.
-
 **2️⃣ Link öffnen**
-
-Der Invite-Link wird serverseitig sofort in eine kurzlebige Vote-Session umgetauscht. Der ursprüngliche Token ist danach ungültig.
 
 **3️⃣ Stimme abgeben**
 
-Die Person wählt eine Option und gibt die Stimme verbindlich ab. Doppeltstimmen sind durch die Session-Logik ausgeschlossen.
-
 **4️⃣ Bestätigung**
 
-Eine Bestätigungsseite schließt den Vorgang ab. Die Stimme ist gespeichert — ohne direkten Personenbezug.
 
 ---
 
