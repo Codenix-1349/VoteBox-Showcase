@@ -24,6 +24,11 @@ Invite-basierte Online-Wahlen für Parteien, Verbände und Organisationen · *No
 
 ---
 
+<img width="1663" height="900" alt="VoteBox_Import" src="https://github.com/user-attachments/assets/a568829a-83a1-4d8f-abe0-c46988e65e44" />
+<img width="976" height="875" alt="Votebox_Abstimmung2" src="https://github.com/user-attachments/assets/e94ef341-c3e9-4e12-876e-ac4382019c05" />
+<img width="788" height="645" alt="VoteBox_vote" src="https://github.com/user-attachments/assets/c5611f8d-b8e4-4f38-9b98-30f48c9ac51c" />
+<img width="603" height="577" alt="VoteBox_Login" src="https://github.com/user-attachments/assets/88a369fd-4af8-4dbe-96bc-63dd5a1a8f24" />
+
 ## <a id="überblick"></a>📖 Überblick
 
 VoteBox ist eine sichere, einladungsbasierte Abstimmungsplattform für interne Wahlen in Parteien, Verbänden und vergleichbaren Organisationen.
@@ -241,8 +246,10 @@ npm run dev
 
 ---
 
+
 ## <a id="autor"></a>👨‍💻 Autor
 
 **Patrick Neumann**
 
 GitHub: [github.com/Codenix-1349](https://github.com/Codenix-1349)
+
