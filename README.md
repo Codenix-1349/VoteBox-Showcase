@@ -1,6 +1,6 @@
 # 🗳️ VoteBox – Digitale Abstimmungsplattform
 
-Invite-basierte Online-Wahlen für Parteien, Verbände und Organisationen nach DSGVO · *Node.js · Express 5 · React 19 · PostgreSQL · TOTP-Sicherung*
+Invite-basierte Online-Wahlen für Parteien, Verbände und Organisationen · *Node.js · Express 5 · React 19 · PostgreSQL · TOTP-Sicherung*
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express" />&nbsp;
@@ -13,6 +13,7 @@ Invite-basierte Online-Wahlen für Parteien, Verbände und Organisationen nach D
 ## 📋 Inhaltsverzeichnis
 
 - [Überblick](#überblick)
+- [Screenshots](#screenshots)
 - [Wahlfluss im Detail](#wahlfluss-im-detail)
 - [Kernfunktionen](#kernfunktionen)
 - [Technische Architektur](#technische-architektur)
@@ -24,7 +25,7 @@ Invite-basierte Online-Wahlen für Parteien, Verbände und Organisationen nach D
 
 ---
 
-## 📸 Screenshots
+## <a id="screenshots"></a>📸 Screenshots
 
 <table>
   <tr>
