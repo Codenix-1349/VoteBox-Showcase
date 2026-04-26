@@ -118,35 +118,6 @@ Jede Abstimmung durchläuft zwei klar getrennte Seiten: Wahlleitung und Wahlbere
 
 ---
 
-## <a id="kernfunktionen"></a>✨ Kernfunktionen
-
-### 🔐 Admin-Absicherung
-
-- Login mit TOTP-Pflicht und QR-Code-Enrollment
-- HttpOnly-Session-Cookie
-- Rate-Limiting auf allen sensiblen Endpunkten
-- Audit-Log für alle Admin- und Systemereignisse
-
-### 📥 Wählerverwaltung
-
-- CSV-Import von Wahlberechtigten
-- Versandstatus pro Wähler in Echtzeit
-- Einzelne Wähler deaktivieren oder Re-Invite auslösen
-- Statusübersicht: abgestimmt / noch offen / deaktiviert
-
-### 📨 Einladungssystem
-
-- Individuelle Invite-Links per SMTP
-- Re-Invite nur solange noch keine Stimme abgegeben wurde
-- Automatische Invalidierung alter Links bei Re-Invite oder Deaktivierung
-
-### 🛡 Datenschutz & Retention
-
-- Stimmen werden ohne direkten Personenbezug gespeichert
-- Saubere Trennung von Wahlberechtigung, Einladung, Session und Stimme
-- Automatisches Retention-Cleanup: Personendaten werden nach Ablauf bereinigt, Ergebnisdaten bleiben erhalten
-
----
 
 ## <a id="technische-architektur"></a>🧠 Technische Architektur
 
@@ -165,20 +136,6 @@ Frontend (React)  →  Backend API (Express)  →  PostgreSQL
 
 ---
 
-## <a id="tech-stack"></a>🛠 Tech Stack
-
-| Bereich      | Technologie                                  |
-|--------------|----------------------------------------------|
-| Frontend     | React 19, React Router 7, Vite 6             |
-| Backend      | Node.js ≥ 22, Express 5                      |
-| Datenbank    | PostgreSQL 15                                |
-| Auth         | TOTP, bcrypt, JWT, HttpOnly-Cookie           |
-| Mail         | Nodemailer (SMTP)                            |
-| Security     | Helmet, Rate-Limiting, CORS                  |
-| Deployment   | Docker, nginx                                |
-| Tests        | Node.js built-in test runner                 |
-
----
 
 
 ## <a id="was-dieses-projekt-zeigt"></a>🎯 Was dieses Projekt zeigt
