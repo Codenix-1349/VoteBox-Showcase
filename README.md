@@ -87,37 +87,6 @@ Das Projekt legt besonderen Wert auf:
 
 ---
 
-## <a id="wahlfluss-im-detail"></a>🔄 Wahlfluss im Detail
-
-Jede Abstimmung durchläuft zwei klar getrennte Seiten: Wahlleitung und Wahlberechtigte.
-
-### 🛠 Seite der Wahlleitung
-
-**1️⃣ Vorbereitung**
-
-**2️⃣ Einladungsversand**
-
-**3️⃣ Monitoring**
-
-**4️⃣ Ergebnisse**
-
-
-
----
-
-### 🗳 Seite der Wahlberechtigten
-
-**1️⃣ Einladung erhalten**
-
-**2️⃣ Link öffnen**
-
-**3️⃣ Stimme abgeben**
-
-**4️⃣ Bestätigung**
-
-
----
-
 
 ## <a id="technische-architektur"></a>🧠 Technische Architektur
 
